@@ -1,0 +1,3 @@
+[submodule "ProximitySensor"]
+	path = ProximitySensor
+	url = https://github.com/gbumgard/ProximitySensor
