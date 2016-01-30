@@ -1,3 +1,6 @@
 [submodule "ProximitySensor"]
 	path = ProximitySensor
 	url = https://github.com/gbumgard/ProximitySensor
+[submodule "HalfDuplexHardwareSerial"]
+	path = HalfDuplexHardwareSerial
+	url = https://github.com/gbumgard/HalfDuplexHardwareSerial
