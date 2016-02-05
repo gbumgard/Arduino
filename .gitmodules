@@ -4,3 +4,6 @@
 [submodule "HalfDuplexHardwareSerial"]
 	path = HalfDuplexHardwareSerial
 	url = https://github.com/gbumgard/HalfDuplexHardwareSerial
+[submodule "DynamixelBus"]
+	path = DynamixelBus
+	url = https://github.com/gbumgard/DynamixelBus
